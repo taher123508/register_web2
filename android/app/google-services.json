@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337780233121",
+    "project_id": "register2-de1db",
+    "storage_bucket": "register2-de1db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337780233121:android:becc6ebb958bceb75d31e0",
+        "android_client_info": {
+          "package_name": "com.example.register_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337780233121-p5a292is3tut624shd1icfnp0binutju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiOa6vRrGVlJwHswUumdVayEjpR5zY0hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337780233121-p5a292is3tut624shd1icfnp0binutju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
